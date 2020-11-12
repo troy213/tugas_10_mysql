@@ -1,1 +1,1 @@
-# tugas_10_mysql
+# Tugas 10 MySQL
